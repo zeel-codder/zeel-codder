@@ -4,4 +4,4 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranayChauhan2516&count_private=true)
+![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeel-codder&count_private=true)
