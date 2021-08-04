@@ -14,9 +14,13 @@ I create blog posts about New Technologys.  I have a passion for learning and sh
 
 # &#x1f4c8; GitHub Stats
 
+<p>
+x
+
 ![ZeelCodder GitHub stats](https://github-readme-stats.vercel.app/api?username=zeel-codder&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeel-codder)](https://git.io/streak-stats)
+  </p>
 
 # &#x1f4c8; Technology
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
