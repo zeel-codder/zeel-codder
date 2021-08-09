@@ -19,7 +19,7 @@ x
 
 ![ZeelCodder GitHub stats](https://github-readme-stats.vercel.app/api?username=zeel-codder&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeel-codder)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeel-codder)](https://git.io/streak-stats) -->
   </p>
 
 <!-- # &#x1f4c8; Technology -->
