@@ -15,7 +15,6 @@ I create blog posts about New Technologys.  I have a passion for learning and sh
 # &#x1f4c8; GitHub Stats
 
 <p>
-x
 
 ![ZeelCodder GitHub stats](https://github-readme-stats.vercel.app/api?username=zeel-codder&show_icons=true&theme=radical)
 
