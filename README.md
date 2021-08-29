@@ -10,7 +10,7 @@
 
 Hey there 👋,
 
-I create blog posts about New Technologys.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see My Blogs on [zeelcodder.tech](https://zeelcodder.tech). 
+My name is Zeel Sureshbhai Prajapati.I am living in kalol, Gujarat. Presently, I am pursuing Computer Science at Nirma University. I am love to code. I am do competitive programming and using java for competitive programming. I am open source enthusiastic Javascript is my favorite language. I done projects web development. I have knowledge about Python ,C and C++ like languages. I love to learn new things everyday.
 
 # &#x1f4c8; GitHub Stats
 
