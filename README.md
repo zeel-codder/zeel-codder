@@ -70,16 +70,15 @@ My name is Zeel Sureshbhai Prajapati.I am pursuing B-tech Computer Science at Ni
 <br>
 
 
-# &#x1f4c8; GitHub Stats
+### &#x1f4c8; GitHub Stats
 
 <p>
 
 ![ZeelCodder GitHub stats](https://github-readme-stats.vercel.app/api?username=zeel-codder&show_icons=true&theme=)
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeel-codder)](https://git.io/streak-stats) -->
-  </p>
+</p>
 
-<!-- # &#x1f4c8; Technology -->
+
 
 
 
