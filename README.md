@@ -63,7 +63,7 @@ My name is Zeel Sureshbhai Prajapati.I am pursuing B-tech Computer Science at Ni
 </a>
  <a href="https://getbootstrap.com/" target="_blank"> <img style="padding:.5rem"  src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="tensorflow" height="42px"/> </a>
   <a href="https://www.tensorflow.org" target="_blank"> <img style="padding:.5rem"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-  <a href="https://material-ui.com/" target="_blank"> <img style="padding:.5rem"  src="https://material-ui.com/static/logo_raw.svg" alt="tensorflow" height="42px"/> </a>
+<!--   <a href="https://material-ui.com/" target="_blank"> <img style="padding:.5rem"  src="https://material-ui.com/static/logo_raw.svg" alt="tensorflow" height="42px"/> </a> -->
   <a href="https://www.netlify.com/" target="_blank"> <img style="padding:.5rem"  src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="tensorflow" height="42px"/> </a>
 </p>
 
