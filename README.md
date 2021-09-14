@@ -27,7 +27,7 @@ My name is Zeel Sureshbhai Prajapati.I am pursuing B-tech Computer Science at Ni
   <div height ="42px"></div>
   
   
-  <img align="right" alt="GIF" src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47n18ok8arhjxkv6vqldwb3z584vfg9gw4xvlqhcyu&rid=giphy.gif&ct=g" width="360px"/>
+  
   
 
 ### 🔨 Languages and Tools:
