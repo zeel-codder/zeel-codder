@@ -9,7 +9,7 @@
 
 
 
-My name is Zeel Sureshbhai Prajapati.I am pursuing B-tech Computer Science at Nirma University. I am a developer. I like to create websites. I have knowledge about React js, Next js, Node js, Flask like web frameworks or Libraries. I worked in full-stack as well as frontend projects. I am an open-source enthusiast. I work in Java, Python, Javascript, TypeScript like Languages. I am learning new things every day and keep growing every day.
+My name is Zeel Sureshbhai Prajapati.I am pursuing B-tech Computer Science at Nirma University. I am a developer.
 
 
   <a href="https://twitter.com/ZeelCodder">
