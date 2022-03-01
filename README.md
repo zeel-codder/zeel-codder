@@ -31,10 +31,10 @@ My name is Zeel Sureshbhai Prajapati.I am pursuing B-tech Computer Science at Ni
 
 <div>
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
 
-![ZeelCodder GitHub stats](https://github-readme-stats.vercel.app/api?username=zeel-codder&show_icons=true&theme=)
+![ZeelCodder GitHub stats](https://github-readme-stats.vercel.app/api?username=zeel-codder&show_icons=true&theme=) -->
 
 </div>
 
