@@ -10,7 +10,6 @@
 
 
 
-My name is Zeel Sureshbhai Prajapati.I am pursuing B-tech Computer Science at Nirma University. I am a developer.
 
 
   <a href="https://twitter.com/ZeelCodder">
