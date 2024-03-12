@@ -1,7 +1,7 @@
 <img src="images/svg/header_en.svg"></img>
 
 <div>
-<a href="https://twitter.com/zeelcoder">
+<a href="https://twitter.com/zeelprajapati__">
 <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a>&ensp;
 <a href="https://www.linkedin.com/in/zeel-prajapati-4832971a3/">
